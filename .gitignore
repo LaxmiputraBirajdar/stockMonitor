@@ -1,0 +1,9 @@
+.venv/
+.python_packages/
+__pycache__/
+.pytest_cache/
+.streamlit/
+cache/
+data/*.csv
+data/*.json
+
